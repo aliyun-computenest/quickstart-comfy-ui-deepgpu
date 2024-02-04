@@ -1,4 +1,4 @@
-# Demo服务实例部署文档
+# ComfyUI DeepGPU加速社区版 部署文档
 
 ## 概述
 ![概述](imgs/1.png)
